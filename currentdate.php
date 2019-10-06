@@ -3,7 +3,8 @@
 <BODY>
 <p>The date is: </p>
 
-<?php echo gmdate("M d Y");
+<?php 
+echo gmdate("M d Y");
 
 $str = "Displayed text using variable";
 echo $str;
