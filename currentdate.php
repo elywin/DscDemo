@@ -5,7 +5,7 @@
 
 <?php 
 echo gmdate("M d Y");
-
+echo "<br>";
 $str = "Displayed text using variable";
 echo $str;
 
