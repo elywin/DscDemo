@@ -3,6 +3,9 @@
 <title>form</title>
 </head>git 
 <body>
+    <?php
+    echo gmdate("M d Y");
+    ?>
     <FORM method="POST" action="login.php">
         User name:
         <input type="text" name="text1"><br><br>
