@@ -1,6 +1,7 @@
-
 <!DOCTYPE html>
+<head>
 <title>form</title>
+</head>
 <body>
     <form method="POST" action="login.php">
         User name:
